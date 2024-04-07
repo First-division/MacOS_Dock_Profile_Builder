@@ -1,0 +1,50 @@
+Default Profile:
+"_CFURLString" = "file:///System/Applications/Launchpad.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Google%20Chrome.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/Messages.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Microsoft%20Outlook.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Discord.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/Maps.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/Photos.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/FaceTime.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/Calendar.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/Notes.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/TV.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Spotify.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/App%20Store.app/
+"_CFURLStringType" = 15;
+ "_CFURLString" = "file:///System/Applications/System%20Settings.app/
+"_CFURLStringType" = 15;
+
+
+Coding Profile:
+"_CFURLString" = "file:///System/Applications/Launchpad.app/
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Google%20Chrome.app/";
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Discord.app/";
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Terminal.app/"; 
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///System/Applications/Launchpad.app/"; 
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Visual%20Studio%20Code.app/"; 
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Stickies.app/"; 
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Tor%20Browser.app/"; 
+"_CFURLStringType" = 15;
+"_CFURLString" = "file:///Applications/Zenmap.app/"; 
+"_CFURLStringType" = 15;
