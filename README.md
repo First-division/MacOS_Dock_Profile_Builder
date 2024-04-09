@@ -1,8 +1,12 @@
 # MacOS_Dock_Profile_Builder
 > [!WARNING]
-> Do not use without editing txt file!!
+> Do not run the program without editing the `.Text` file **FIRST**!!
+
+> [!WARNING]
+> Make sure to take a screenshot or take note of how your app dock is configured now, just in case you mess up.
+
 > [!TIP]
-> When cloning this `repo` you should clone it in your **User** folder or wherever your `terminal` opens up to automatically so you can access this `dock profile switcher app` without having to 
+> When cloning this `repo` you should clone it in your **User** folder or wherever your `terminal` opens up automatically so you can access this `dock profile switcher app` without having to 
 
 # macOS install and use:
 This is for those 'MacOS' users who want to change the layout and configuration of their Application Dock bar with different apps by the use of different profiles. There are two files required for this program to work:
@@ -27,15 +31,30 @@ This will give you a readout of all of the apps on your dock. Here is what an ap
 "_CFURLString" = "file:///Applications/Terminal.app/";
 "_CFURLStringType" = 15;
 ```
+Replace all of the contents with the readout of the command above
 
 There will be many of these in order. Now it's time to use your favorite `text editor` and replace all the `example _CFURLString` 
 
-# Getting Indivinual App locations:
-with the ones you want your profiles to contain. if you want
+# Getting Individual App Locations:
+There is generally `1` way (other than finding app paths via the terminal)to copy the file location of your apps:
+## The first way, follow these steps: 
+  ```
+  1. Open your Finder on Mac
+  2. on the left-hand side of the window, find the applications folder
+  3. find the app you want to copy
+  4. and right click or use two fingers on the trackpad and click to open the context menu for that app
+  5. find and click on the option called "copy"
+  ```
+This copies the `path` to that file. It should look something like this: `file:///System/Applications/Launchpad.app/`. If it doesn't, you can use that example and change everything after the `Applications/` to the app you want. `e.g`: `/Discord.app`
 
+# Running the program:
 
-3. The `DockProfile.sh` file is the file you will be running in the terminal using the command once you edit 
-
+You will run the `DockProfile.sh` file in the terminal using a command `AFTER` you edit the `txt file`.
+Use the command:
+```
+./DockProfile.sh
+```
+And follow the steps to change the profile
 
 
 
